@@ -1,6 +1,6 @@
 <h1 align="center">Hello!I'm Victoria!</h1>
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmODViMTZlNDdmMmJkMGYyY2MwNTU0NzYxODQ5MmVjM2YzYzhmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UZQCbV4OW1mXdHJNPS/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmODViMTZlNDdmMmJkMGYyY2MwNTU0NzYxODQ5MmVjM2YzYzhmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UZQCbV4OW1mXdHJNPS/giphy.gif">
 
 
 - 👩🏼‍💻 I’m datascientist (beginner level), base on **Python**
