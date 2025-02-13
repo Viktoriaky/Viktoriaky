@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmODViMTZlNDdmMmJkMGYyY2MwNTU0NzYxODQ5MmVjM2YzYzhmNSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UZQCbV4OW1mXdHJNPS/giphy.gif">
 
 
-- 👩🏼‍💻 I’m datascientist (beginner level), base on **Python**
+- 👩🏼‍💻 I’m datascientist, base on **Python**
 
 - 🤹🏽‍♀️ My projects are available at <a href="https://github.com/Viktoriaky?tab=repositories">my repositories</a>
 
